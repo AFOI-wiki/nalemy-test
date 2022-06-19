@@ -1,0 +1,5 @@
+site_name: AFOJ-wiki
+theme:
+  name: material
+  language: 'zh'
+
